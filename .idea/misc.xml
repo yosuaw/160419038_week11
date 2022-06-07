@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/AdvWeek4/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.188" />
+        <entry key="..\:/Desktop/AdvWeek4/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
+        <entry key="..\:/Desktop/AdvWeek4/app/src/main/res/layout/fragment_student_detail.xml" value="0.4466666666666667" />
+        <entry key="..\:/Desktop/AdvWeek4/app/src/main/res/layout/fragment_student_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Desktop/AdvWeek4/app/src/main/res/layout/student_list_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 6/Advanced Native Mobile Progamming/Week 4/AdvWeek4/app/src/main/res/layout/fragment_student_detail.xml" value="0.4466666666666667" />
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 6/Advanced Native Mobile Progamming/Week 4/AdvWeek4/app/src/main/res/layout/fragment_student_list.xml" value="0.16485507246376813" />
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 6/Advanced Native Mobile Progamming/Week 4/AdvWeek4/app/src/main/res/layout/student_list_item.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
